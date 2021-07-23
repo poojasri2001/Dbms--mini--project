@@ -1,8 +1,7 @@
-# Dbms--mini--project 
 
 ## Hospital-Mangement-System
 
-**AIM:**
+** AIM:**
       
       The main aim of the project is to provide paper-less hospital work up to 90%. So an automated version of the manual system has been developed.
       
